@@ -1,3 +1,3 @@
 # simple_calculator
 
-This a simple project of calculator created on a finished my curse of Python. 
+This a simple project of calculator created on a finished curse of Python. 
